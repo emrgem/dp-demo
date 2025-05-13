@@ -13,9 +13,6 @@ public class RecursiveScore {
     public static void main(String[] args) {
         // Calculate and show scores for levels 1-4
         System.out.println("===== GAME SCORE VALUES =====");
-        System.out.println("Level 1: " + gameScore(1));
-        System.out.println("Level 2: " + gameScore(2));
-        System.out.println("Level 3: " + gameScore(3));
         System.out.println("Level 4: " + gameScore(4));
     }
 }
